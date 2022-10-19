@@ -12,4 +12,8 @@ public class Main {
            System.out.println(weight[0] + ", " + weight[1] + ", " + weight[2]);
            System.out.println(small[0] + ", " + small[1] + ", "+ small[2]);
 
+           System.out.println(arr[2] + ", " + arr[1] + ", " + arr[0]);
+           System.out.println(weight[2] + ", " + weight[1] + ", " + weight[0]);
+           System.out.println(small[2] + ", " + small[1] + ", "+ small[0]);
+
            }}
